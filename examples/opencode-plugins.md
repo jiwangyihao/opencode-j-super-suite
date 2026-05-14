@@ -1,6 +1,6 @@
 # 示例配置
 
-这些示例只展示推荐安装组合。实际是否写入全局或项目级配置，取决于你使用 OpenCode 的方式。
+这些示例只展示推荐安装组合，全部都使用固定版本号。实际是否写入全局或项目级配置，取决于你使用 OpenCode 的方式。
 
 ## 最小 Copilot 组合
 
@@ -16,10 +16,10 @@ opencode plugin opencode-notify-tool@0.1.0 --force -g
 opencode plugin opencode-loop-safety@0.1.0 --force -g
 ```
 
-## 远程微信组合
+## 远程值守 / 微信交互组合
 
 ```bash
-opencode plugin opencode-wechat@0.1.1 --force -g
+opencode plugin opencode-oncall@0.1.5 --force -g
 ```
 
 ## 全量推荐组合
@@ -30,5 +30,5 @@ opencode plugin opencode-openai-account-switcher@0.1.0 --force -g
 opencode plugin opencode-wait@0.1.0 --force -g
 opencode plugin opencode-notify-tool@0.1.0 --force -g
 opencode plugin opencode-loop-safety@0.1.0 --force -g
-opencode plugin opencode-wechat@0.1.1 --force -g
+opencode plugin opencode-oncall@0.1.5 --force -g
 ```

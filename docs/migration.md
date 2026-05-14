@@ -13,7 +13,7 @@
 | Guided Loop Safety | `opencode-loop-safety` | `opencode plugin opencode-loop-safety@0.1.0 --force -g` |
 | `wait` tool | `opencode-wait` | `opencode plugin opencode-wait@0.1.0 --force -g` |
 | `notify` tool | `opencode-notify-tool` | `opencode plugin opencode-notify-tool@0.1.0 --force -g` |
-| 微信远程交互 | `opencode-wechat` | `opencode plugin opencode-wechat@0.1.1 --force -g` |
+| 远程值守 / 微信交互 | `opencode-oncall` | `opencode plugin opencode-oncall@0.1.5 --force -g` |
 
 ## 推荐迁移步骤
 
@@ -24,7 +24,7 @@
    - Copilot：`opencode auth login --provider github-copilot`
    - OpenAI / Codex：对应插件 README 中的 OpenAI / Codex 账号入口
    - Loop Safety：`/loop-safety`
-   - 微信：微信侧 `/status`
+   - 远程值守 / 微信交互：微信侧 `/status`
 5. 如果 OpenCode 仍加载旧插件缓存，先清理对应缓存目录，再重新执行带版本号的安装命令。
 
 ## 注意事项
