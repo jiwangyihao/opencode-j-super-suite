@@ -5,7 +5,7 @@
 ## 最小 Copilot 组合
 
 ```bash
-opencode plugin opencode-copilot-account-switcher@0.15.0 --force -g
+opencode plugin opencode-copilot-account-switcher@1.0.0 --force -g
 ```
 
 ## 长任务代理组合
@@ -14,6 +14,12 @@ opencode plugin opencode-copilot-account-switcher@0.15.0 --force -g
 opencode plugin opencode-wait@0.1.0 --force -g
 opencode plugin opencode-notify-tool@0.1.0 --force -g
 opencode plugin opencode-loop-safety@0.1.0 --force -g
+```
+
+## Skill 去重 / 上下文精简
+
+```bash
+opencode plugin opencode-skill-deduper@0.1.4 --force -g
 ```
 
 ## 远程值守 / 微信交互组合
@@ -25,10 +31,11 @@ opencode plugin opencode-oncall@0.1.5 --force -g
 ## 全量推荐组合
 
 ```bash
-opencode plugin opencode-copilot-account-switcher@0.15.0 --force -g
+opencode plugin opencode-copilot-account-switcher@1.0.0 --force -g
 opencode plugin opencode-openai-account-switcher@0.1.0 --force -g
 opencode plugin opencode-wait@0.1.0 --force -g
 opencode plugin opencode-notify-tool@0.1.0 --force -g
 opencode plugin opencode-loop-safety@0.1.0 --force -g
 opencode plugin opencode-oncall@0.1.5 --force -g
+opencode plugin opencode-skill-deduper@0.1.4 --force -g
 ```

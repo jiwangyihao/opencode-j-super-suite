@@ -10,30 +10,32 @@ OpenCode J Super Suite 是一组 OpenCode 插件的总览仓库，用来帮助�
 
 | 包名 | npm | npm 下载量 | GitHub | Stars |
 | --- | --- | --- | --- | --- |
-| `opencode-copilot-account-switcher@0.15.0` | [npm](https://www.npmjs.com/package/opencode-copilot-account-switcher) | [![npm downloads](https://img.shields.io/npm/dw/opencode-copilot-account-switcher.svg)](https://www.npmjs.com/package/opencode-copilot-account-switcher) | [jiwangyihao/opencode-copilot-account-switcher](https://github.com/jiwangyihao/opencode-copilot-account-switcher) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-copilot-account-switcher?style=social)](https://github.com/jiwangyihao/opencode-copilot-account-switcher/stargazers) |
+| `opencode-copilot-account-switcher@1.0.0` | [npm](https://www.npmjs.com/package/opencode-copilot-account-switcher) | [![npm downloads](https://img.shields.io/npm/dw/opencode-copilot-account-switcher.svg)](https://www.npmjs.com/package/opencode-copilot-account-switcher) | [jiwangyihao/opencode-copilot-account-switcher](https://github.com/jiwangyihao/opencode-copilot-account-switcher) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-copilot-account-switcher?style=social)](https://github.com/jiwangyihao/opencode-copilot-account-switcher/stargazers) |
 | `opencode-openai-account-switcher@0.1.0` | [npm](https://www.npmjs.com/package/opencode-openai-account-switcher) | [![npm downloads](https://img.shields.io/npm/dw/opencode-openai-account-switcher.svg)](https://www.npmjs.com/package/opencode-openai-account-switcher) | [jiwangyihao/opencode-openai-account-switcher](https://github.com/jiwangyihao/opencode-openai-account-switcher) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-openai-account-switcher?style=social)](https://github.com/jiwangyihao/opencode-openai-account-switcher/stargazers) |
 | `opencode-loop-safety@0.1.0` | [npm](https://www.npmjs.com/package/opencode-loop-safety) | [![npm downloads](https://img.shields.io/npm/dw/opencode-loop-safety.svg)](https://www.npmjs.com/package/opencode-loop-safety) | [jiwangyihao/opencode-loop-safety](https://github.com/jiwangyihao/opencode-loop-safety) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-loop-safety?style=social)](https://github.com/jiwangyihao/opencode-loop-safety/stargazers) |
 | `opencode-wait@0.1.0` | [npm](https://www.npmjs.com/package/opencode-wait) | [![npm downloads](https://img.shields.io/npm/dw/opencode-wait.svg)](https://www.npmjs.com/package/opencode-wait) | [jiwangyihao/opencode-wait](https://github.com/jiwangyihao/opencode-wait) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-wait?style=social)](https://github.com/jiwangyihao/opencode-wait/stargazers) |
 | `opencode-notify-tool@0.1.0` | [npm](https://www.npmjs.com/package/opencode-notify-tool) | [![npm downloads](https://img.shields.io/npm/dw/opencode-notify-tool.svg)](https://www.npmjs.com/package/opencode-notify-tool) | [jiwangyihao/opencode-notify-tool](https://github.com/jiwangyihao/opencode-notify-tool) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-notify-tool?style=social)](https://github.com/jiwangyihao/opencode-notify-tool/stargazers) |
 | `opencode-oncall@0.1.5` | [npm](https://www.npmjs.com/package/opencode-oncall) | [![npm downloads](https://img.shields.io/npm/dw/opencode-oncall.svg)](https://www.npmjs.com/package/opencode-oncall) | [jiwangyihao/opencode-oncall](https://github.com/jiwangyihao/opencode-oncall) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-oncall?style=social)](https://github.com/jiwangyihao/opencode-oncall/stargazers) |
+| `opencode-skill-deduper@0.1.4` | [npm](https://www.npmjs.com/package/opencode-skill-deduper) | [![npm downloads](https://img.shields.io/npm/dw/opencode-skill-deduper.svg)](https://www.npmjs.com/package/opencode-skill-deduper) | [jiwangyihao/opencode-skill-deduper](https://github.com/jiwangyihao/opencode-skill-deduper) | [![GitHub stars](https://img.shields.io/github/stars/jiwangyihao/opencode-skill-deduper?style=social)](https://github.com/jiwangyihao/opencode-skill-deduper/stargazers) |
 
 ## 插件矩阵
 
 | 插件 | 当前版本 | GitHub 仓库 | 主要能力 | 独立性 | 仓库状态 |
 | --- | --- | --- | --- | --- | --- |
-| `opencode-copilot-account-switcher` | `0.15.0` | [jiwangyihao/opencode-copilot-account-switcher](https://github.com/jiwangyihao/opencode-copilot-account-switcher) | GitHub Copilot 多账号、quota、模型路由、Copilot Network Retry、Copilot status、compact / stop-tool、Synthetic Agent Initiator | 独立 Copilot 领域插件 | GitHub 与 npm 已发布 |
+| `opencode-copilot-account-switcher` | `1.0.0` | [jiwangyihao/opencode-copilot-account-switcher](https://github.com/jiwangyihao/opencode-copilot-account-switcher) | GitHub Copilot 多账号、quota、模型路由、Copilot Network Retry、Copilot status、compact / stop-tool、Synthetic Agent Initiator | 独立 Copilot 领域插件 | GitHub 与 npm 已发布 |
 | `opencode-openai-account-switcher` | `0.1.0` | [jiwangyihao/opencode-openai-account-switcher](https://github.com/jiwangyihao/opencode-openai-account-switcher) | OpenAI / Codex 账号切换、Codex status、Codex retry、upstream snapshot | 独立 OpenAI / Codex 领域插件 | GitHub 与 npm 已发布 |
 | `opencode-loop-safety` | `0.1.0` | [jiwangyihao/opencode-loop-safety](https://github.com/jiwangyihao/opencode-loop-safety) | Guided Loop Safety 策略注入、`/loop-safety` 菜单、强交互与无人值守等待规则 | 独立策略插件，弱依赖 wait / notify | GitHub 与 npm 已发布 |
 | `opencode-wait` | `0.1.0` | [jiwangyihao/opencode-wait](https://github.com/jiwangyihao/opencode-wait) | 通用 `wait` tool，支持固定等待和等待新用户消息 | 完全独立工具插件 | GitHub 与 npm 已发布 |
 | `opencode-notify-tool` | `0.1.0` | [jiwangyihao/opencode-notify-tool](https://github.com/jiwangyihao/opencode-notify-tool) | 通用 `notify` tool，提供非阻塞进度通知 | 完全独立工具插件 | GitHub 与 npm 已发布 |
 | `opencode-oncall` | `0.1.5` | [jiwangyihao/opencode-oncall](https://github.com/jiwangyihao/opencode-oncall) | 远程值守、微信 slash 指令、通知、`/status`、`/todo`、`/reply`、`/allow`、`/recover`、OpenClaw smoke | 独立远程值守插件 | GitHub 与 npm 已发布 |
+| `opencode-skill-deduper` | `0.1.4` | [jiwangyihao/opencode-skill-deduper](https://github.com/jiwangyihao/opencode-skill-deduper) | 重复 skill 正文压缩、保留最新 skill 指令、文件日志、TUI notifier 摘要 | 独立上下文整理插件，可与任意工作流组合 | GitHub 与 npm 已发布 |
 
 ## 推荐组合
 
 ### 只需要 Copilot 账号切换
 
 ```bash
-opencode plugin opencode-copilot-account-switcher@0.15.0 --force -g
+opencode plugin opencode-copilot-account-switcher@1.0.0 --force -g
 ```
 
 适合只使用 GitHub Copilot provider，希望管理多个 Copilot 账号、查看 quota 或启用 Copilot 专属请求增强的用户。
@@ -56,6 +58,14 @@ opencode plugin opencode-loop-safety@0.1.0 --force -g
 
 适合长任务代理工作流。`wait` 负责无人值守等待，`notify` 负责非阻塞进度通知，`loop-safety` 负责策略注入和交互约束。
 
+### Skill 去重 / 上下文精简
+
+```bash
+opencode plugin opencode-skill-deduper@0.1.4 --force -g
+```
+
+适合长会话、多次加载 Superpowers / OmO skills 或频繁使用 slash command 的用户。插件会在模型请求前保留最新 skill 指令，并压缩更早的重复正文。
+
 ### 远程值守 / 微信交互
 
 ```bash
@@ -64,27 +74,29 @@ opencode plugin opencode-oncall@0.1.5 --force -g
 
 适合需要远程值守、通过微信接收通知、处理 slash 指令、查看 `/status` 或使用 `/todo` 恢复待处理事项的用户。
 
-### Copilot + Loop Safety + 远程值守
+### Copilot + Loop Safety + 远程值守 + Skill 去重
 
 ```bash
-opencode plugin opencode-copilot-account-switcher@0.15.0 --force -g
+opencode plugin opencode-copilot-account-switcher@1.0.0 --force -g
 opencode plugin opencode-wait@0.1.0 --force -g
 opencode plugin opencode-notify-tool@0.1.0 --force -g
 opencode plugin opencode-loop-safety@0.1.0 --force -g
 opencode plugin opencode-oncall@0.1.5 --force -g
+opencode plugin opencode-skill-deduper@0.1.4 --force -g
 ```
 
-适合需要 Copilot 账号能力、长任务安全策略和远程值守能力的完整组合。
+适合需要 Copilot 账号能力、长任务安全策略、远程值守和上下文精简能力的完整组合。
 
 ## 迁移路径
 
 如果你曾经只安装 `opencode-copilot-account-switcher`，现在请按实际需求拆分安装：
 
-1. 继续需要 Copilot 账号、quota、routing 或 Copilot Network Retry：保留 `opencode-copilot-account-switcher@0.15.0`。
+1. 继续需要 Copilot 账号、quota、routing 或 Copilot Network Retry：保留 `opencode-copilot-account-switcher@1.0.0`。
 2. 需要 OpenAI / Codex 账号切换：新增 `opencode-openai-account-switcher@0.1.0`。
 3. 需要 Guided Loop Safety：新增 `opencode-wait@0.1.0`、`opencode-notify-tool@0.1.0` 和 `opencode-loop-safety@0.1.0`。
 4. 需要远程值守 / 微信交互：新增 `opencode-oncall@0.1.5`。
-5. 不要用裸包名或 `latest`；始终使用带明确版本号的安装命令。
+5. 需要减少重复 skill 正文挤占上下文：新增 `opencode-skill-deduper@0.1.4`。
+6. 不要用裸包名或 `latest`；始终使用带明确版本号的安装命令。
 
 ## 设计原则
 
